@@ -22,8 +22,7 @@ Before running the tests, ensure you have the following installed:
 If you have the project as a zip file, extract it. If it's a Git repository:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/GUNAWARADANA/IT23323216.git
 ```
 
 ### Step 2: Install Dependencies
